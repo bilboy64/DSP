@@ -1,8 +1,8 @@
 # DSP
 Experimental repository containing some basic signal operations, such as creation, normalization, producing sound, extracting harmonics etc. Specifically, notebook is divided into the following parts:
 
-- Noise signal generation, plotting, sounding and saving as a .wav file
-- Random sinusoidal signal generation generation, plotting, sounding and saving as a .wav file
+- Noise signal generation
+- Random sinusoidal signal generation generation
 - A basic additive synthesis example using a sinusoidal signal
 - A basic additive synthesis example using a sinusoidal signal, producing an organ-like sound. 
 - Application of Fourier transform on previous signal
