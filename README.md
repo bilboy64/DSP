@@ -8,4 +8,4 @@ Experimental repository containing some basic signal operations, such as creatio
 - Application of Fourier transform on previous signal
 - Reconstruction of signal using inverse Fourier tranform.
 
-For every prementioned signal there's also a respective .wav file saved in folder "Sound Files". They've all been quantized using 16-bit PCM, in order to support Media Player's codec.
+For every prementioned signal there's also a respective .wav file saved in folder "Sound files". They've all been quantized using 16-bit PCM, in order to support Media Player's codec.
