@@ -9,3 +9,5 @@ Experimental repository containing some basic signal operations, such as creatio
 - Reconstruction of signal using inverse Fourier tranform.
 
 For every prementioned signal there's also a respective .wav file saved in folder "Sound files". They've all been quantized using 16-bit PCM, in order to support Media Player's codec.
+
+Exported extension profile: https://vscode.dev/profile/github/931d6f43927d0eb926ccacbd06f0b106
